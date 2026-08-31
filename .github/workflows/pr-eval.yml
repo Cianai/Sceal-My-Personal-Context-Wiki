@@ -81,7 +81,7 @@ jobs:
       grade_label: ${{ steps.score.outputs.grade_label }}
       issue_id: ${{ steps.score.outputs.issue_id }}
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Determine PR number
         id: pr
