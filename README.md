@@ -24,7 +24,7 @@ Design and materials only. No results yet. The study is a preregistered single-c
 
 * [hai-alignment-spec](https://github.com/Cianai/hai-alignment-spec) defines the format in both directions: what each agent is, and what an agent should know about the person (EGO.md).
 * This repository is one person's instance of that format and the study that tests it.
-* Earlier iterations of the same programme: [alteri](https://github.com/Cianai/alteri), a first prototype comparing how alignment framings answer the same prompt; and *The Quantified Self Meets Egocentric Networks*, a talk at the 8th European Conference on Social Networks (EUSN 2026), which rebuilt a personal network from data sources the person already held.
+* Earlier iterations of the same programme: [alteri](https://github.com/Cianai/alteri), a first prototype comparing how alignment framings answer the same prompt; and [*The Quantified Self Meets Egocentric Networks*](https://doi.org/10.5281/zenodo.24452839), a talk at the 8th European Conference on Social Networks (EUSN 2026), which rebuilt a personal network from data sources the person already held.
 
 This repository is a GitHub template: using it copies the structure and the study materials, so the same test can be run on someone else's own account.
 
